@@ -12,7 +12,7 @@ Temas:
  
  (Apague essa seção)
 
-# Pac-Man
+# Leetcode
 
 **Número da Lista**: 1<br>
 **Conteúdo da Disciplina**: Grafos 1 <br>
@@ -20,7 +20,7 @@ Temas:
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| 21/211061897  |  Igor de Sousa Justino |
+| 21/1061897  |  Igor de Sousa Justino |
 | 21/1061968  |  João Pedro Veras Gomes |
 
 ## Sobre 
