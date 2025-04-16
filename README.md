@@ -17,8 +17,7 @@ O projeto consiste na resolução de questões que examinam o conteúdo visto na
 
 785 Is Graph Bipartite? 
 
-## Problema 1:
-[785 Is Graph Bipartite?]([https://codeforces.com/problemset/problem/1020/B](https://leetcode.com/problems/is-graph-bipartite/solutions/?envType=problem-list-v2&envId=graph))
+## Problema 1: [785 Is Graph Bipartite?]([https://codeforces.com/problemset/problem/1020/B](https://leetcode.com/problems/is-graph-bipartite/solutions/?envType=problem-list-v2&envId=graph))
 
 ![](./785.png)
 
