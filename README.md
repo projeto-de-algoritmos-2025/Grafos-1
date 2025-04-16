@@ -15,7 +15,8 @@
 O objetivo é apresentar soluções para 4 problemas de grafos (2 difíceis, 2 médios) propostos no LeetCode. 
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+
+![](./785.png)
 
 ## Instalação 
 **Linguagem**: C <br>
