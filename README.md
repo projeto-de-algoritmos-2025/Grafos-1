@@ -12,9 +12,13 @@
 | 21/1061968  |  João Pedro Veras Gomes |
 
 ## Sobre 
-O objetivo é apresentar soluções para 4 problemas de grafos (2 difíceis, 2 médios) propostos no LeetCode. 
+O projeto consiste na resolução de questões que examinam o conteúdo visto na sala de aula sobre conceitos iniciais de gráficos
 
-## Screenshots
+
+785 Is Graph Bipartite? 
+
+## Problema 1:
+[785 Is Graph Bipartite?]([https://codeforces.com/problemset/problem/1020/B](https://leetcode.com/problems/is-graph-bipartite/solutions/?envType=problem-list-v2&envId=graph))
 
 ![](./785.png)
 
