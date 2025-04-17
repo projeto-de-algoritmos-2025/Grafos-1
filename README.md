@@ -41,7 +41,7 @@ O projeto consiste na resolução de questões que examinam o conteúdo visto na
 - Nível: Difícil
 - Implementação:[Código 4](https://github.com/projeto-de-algoritmos-2025/Grafos-1/blob/main/834.png)
 
-O problema envolve calcular a soma das distâncias de cada nó a todos os outros nós em uma árvore não direcionada. Dada a quantidade de nós e as arestas que os conectam, a tarefa é retornar um array onde cada elemento representa a soma das distâncias de um nó específico a todos os outros.
+**_O problema envolve calcular a soma das distâncias de cada nó a todos os outros nós em uma árvore não direcionada. Dada a quantidade de nós e as arestas que os conectam, a tarefa é retornar um array onde cada elemento representa a soma das distâncias de um nó específico a todos os outros._**
 
 ![](./834.png)
 
